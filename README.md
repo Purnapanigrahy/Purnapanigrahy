@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Django+Backend+Developer;Always+Learning+New+Technologies;Building+Real+World+Projects" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Purnapanigrahy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Purnapanigrahy?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Purnapanigrahy?affiliations=OWNER&style=for-the-badge"/>
-</p>
-
 </div>
 
 ---
