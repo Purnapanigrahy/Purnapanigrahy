@@ -22,19 +22,6 @@
 
 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science.
 
-🌱 Currently learning
-- Advanced Django
-- Machine Learning
-- Deep Learning
-- React
-
-💡 Interested in
-- Backend Development
-- AI Applications
-- Computer Vision
-- Automation
-- APIs
-
 🎯 Goal
 > Build software that solves real-world problems through clean code and intelligent systems.
 
@@ -90,15 +77,15 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purnapanigrahy&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purnapanigrahy&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnapanigrahy&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -108,7 +95,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Purnapanigrahy&theme=algolia&column=7"/>
 
 </p>
 
@@ -126,7 +113,7 @@
 
 # 📈 Contribution Graph
 
-[![Purna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Purna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Purnapanigrahy&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -134,15 +121,15 @@
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Purnapanigrahy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/purna-panigrahy-6545502a3">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Purna567@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
