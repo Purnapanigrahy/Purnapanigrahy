@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Purna
 
-<!--
-**Purnapanigrahy/Purnapanigrahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Python
+- Django
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Building
+- Mini Instagram Clone
+- Weather App
+
+🎯 Goal
+Become a Full Stack Developer
+
+📫 Reach me
+Email: example@gmail.com
