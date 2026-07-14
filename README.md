@@ -26,33 +26,50 @@
 ### Languages
 
 <p>
+  
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask"/>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi"/>
 </p>
 
 ### AI / ML
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linuxvscode,pycharm,postman,figma"/>
 </p>
-
 ---
 
 # 🚀 Current Projects
@@ -64,35 +81,6 @@
 🌦 Weather Forecast Application
 
 📝 Task Management System
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purnapanigrahy&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purnapanigrahy&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnapanigrahy&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Purnapanigrahy&theme=algolia&column=7"/>
-
-</p>
-
 ---
 
 # 💻 Technologies
@@ -102,13 +90,11 @@
 <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,opencv,mysql,sqlite,git,github,docker,linux,vscode,html,css,js"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
 [![Purna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Purnapanigrahy&theme=tokyo-night)](https://github.com/Purnapanigrahy)
-
 ---
 
 # 📫 Connect With Me
@@ -128,7 +114,6 @@
 </a>
 
 </p>
-
 ---
 
 <div align="center">
