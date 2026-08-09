@@ -27,7 +27,7 @@
 
 <p>
   
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,ruby,lua"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ruby,lua"/>
 </p>
 
 ### Backend
