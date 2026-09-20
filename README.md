@@ -92,10 +92,9 @@
 </p>
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-[![Purna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Purnapanigrahy&theme=tokyo-night)](https://github.com/Purnapanigrahy)
----
+![GitHub Snake](https://raw.githubusercontent.com/Purnapanigrahy/Purnapanigrahy/output/github-contribution-grid-snake.svg)
 
 # 📫 Connect With Me
 
