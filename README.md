@@ -94,7 +94,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Purnapanigrahy/Purnapanigrahy/output/github-contribution-grid-snake.svg)
+![Generate Snake](https://raw.githubusercontent.com/Purnapanigrahy/Purnapanigrahy/output/github-contribution-grid-snake.svg)
 
 # 📫 Connect With Me
 
